@@ -1,6 +1,7 @@
 package loops
 
 import "testing"
+import "fmt"
 
 func TestRepeat(t *testing.T) {
 	t.Run("repeat with given values", func(t *testing.T) {
