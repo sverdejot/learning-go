@@ -1,0 +1,1 @@
+* di works like any other framework, just take some time reading standard library for useful interfaces, since the impl is implicit we can do a ton of work with this standard library without almost no effort
